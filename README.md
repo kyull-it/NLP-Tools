@@ -2,6 +2,7 @@
 
 This repository includes various codes for practicing how to handle text dataset.
 
+---
 ### BLEU Score
 - Practice Code (Jupyter Notebook) : `CaculateBLEU.ipynb`
 - Python code for CLI Implementation : `BLEUscore.py`
@@ -15,3 +16,7 @@ Practice Code contains the code that can caculate BLEU score for three languages
 python BLEUscore.py -f pathfile
 ```
 
+---
+### Sentence Splitter
+- `sentence_splitter.ipynb` is the code that can parse texts into each sentence.
+- This code is for Korean and English sentences.
