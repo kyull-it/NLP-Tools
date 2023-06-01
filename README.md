@@ -7,7 +7,7 @@ This repository includes various codes for practicing how to handle text dataset
 - Python code for CLI Implementation : `BLEUscore.py`
 
 Practice Code contains the code that can caculate BLEU score for three languages (Korean, English, Japanese), <br>
-and Python Code is only for Korean.
+and Python Code is only for Korean. If you want to run the code in your computer, then enter the command below in CLI. 
 
 ##### How to run Python Code?
 ```python
