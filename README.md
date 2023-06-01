@@ -20,3 +20,11 @@ python BLEUscore.py -f pathfile
 ### Sentence Splitter
 - `sentence_splitter.ipynb` is the code that can parse texts into each sentence.
 - This code is for Korean and English sentences.
+
+---
+### Others
+These codes are the practice codes.
+Although you can refer to my code, but they are not clear. 
+
+- `TextGeneration.ipynb` code is for generating sentence from input text.
+- `WordClustering.ipynb` code is for calculating similarity between words.
