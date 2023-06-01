@@ -6,7 +6,8 @@ This repository includes various codes for practicing how to handle text dataset
 - Practice Code : `CaculateBLEU.ipynb`
 - Python code for CLI Implementation : `BLEUscore.py`
 
-Practice Code(Jupyter Notebook) contains the code that can caculate BLEU score for three languages (Korean, English, Japanese), and Python Code is only for Korean.
+Practice Code(Jupyter Notebook) contains the code that can caculate BLEU score for three languages (Korean, English, Japanese), 
+and Python Code is only for Korean.
 
 ##### How to run Python Code?
 ```python
